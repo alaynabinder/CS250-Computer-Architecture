@@ -10,8 +10,11 @@ A collection of several projects completed in CS 250: Computer Architecture.
 
 ## Assembly
 **plusminus.s:** A MIPS program that ranks basketball players based on the metric known as “plus/minus”.
+
 **recurse.s:** A recursive MIPS program that computes f(N), where N is an integer greater than zero that is input to the program. f(N) = 3*N – 2*f(N-1) + 7. The base case is f(0)=2.
+
 **tribonacci.s:** A MIPS program that prints out the first N Tribonacci numbers, where N is an integer that is input to the program. 
+
 
 ## Duke Community Standard
 
